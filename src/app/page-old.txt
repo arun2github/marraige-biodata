@@ -1,0 +1,311 @@
+export default function Home() {
+  return (
+    <div className="min-h-screen p-4 md:p-8 py-12">
+      <div className="max-w-5xl mx-auto">
+        
+        {/* Main Biodata Container */}
+        <div className="bg-gradient-to-br from-amber-50 via-orange-50 to-amber-100 rounded-none shadow-2xl relative overflow-hidden border-8 border-double border-amber-800">
+          
+          {/* Decorative Top Border Pattern */}
+          <div className="h-20 bg-gradient-to-r from-red-900 via-amber-700 to-red-900 relative">
+            <div className="absolute inset-0 opacity-30"></div>
+            <div className="absolute -bottom-4 left-1/2 transform -translate-x-1/2 w-32 h-8 bg-gradient-to-r from-red-900 via-amber-600 to-red-900 rounded-full shadow-lg"></div>
+          </div>
+
+          {/* Header Section */}
+          <div className="text-center pt-12 pb-8 px-8 relative">
+            <div claexport default function Home() {
+  return (
+    <div className="min-h-screen p-4 md:p-8 py-12">
+      <div className="max-w-5xl ="  return (
+    <div className="6     <div 4       <div className="max-w-5xl mx-auto">
+        
+         
+        {/* Main Biodata Contaiin       oc        <div className="bg-gradient-t="          
+          {/* Decorative Top Border Pattern */}
+          <div className="h-20 bg-gradient-to-r from-red-900 via-amber-700 to-red-900 relative">
+            <div           
+            <h1 className="text-5xl md:text-6xl f            <div className="absolutext bg-gradient-to-r from-red-900 via-amber-700 to-red-900 mb-            <div className="absolute -bottom-4 left-1/2 transf>
+          </div>
+
+          {/* Header Section */}
+          <div className="text-center pt-12 pb-8 px-8 relative">
+            <div claexport default function Home() {
+  returel
+          {/*              <div className="text--3            <div claexport default function Home() {
+  return (am  return (
+    <div className="min-h-screen p-4 md:Name="w-full h-full rounded-full bg-gradient-to-br from-amber-100    <div className="6     <div 4       <divnt        
+         
+        {/* Main Biodata Contaiin       oc        <divl        ld        d-          {/* Decorative Top Border Pattern */}
+          <div className="h-20 bg-gradientbs          <div className="h-20 bg-gradient-to-x-            <div           
+       -red-900 to-amber-800 text-white text-sm font-semibold rounded            <h1 className=            </div>
+
+          {/* Header Section */}
+          <div className="text-center pt-12 pb-8 px-8 relative">
+            <div claexport default function Home() {
+  returel
+          {/*              <d <
+          {/* xt-          <div className="text- m            <div claexport default function Home() {
+  retu        returel
+          {/*              <div classNamep-        
+              <span className="px-5 py-2 bg-gradient-to-r from-amber-600 to-orange-600 text-white rounde    <div className="mol         
+        {/* Main Biodata Contaiin       oc        <divl        ld        d-          {/* Decorative Top Border Pattern */}
+          <div classNamet-        m-          <div className="h-20 bg-gradientbs          <div className="h-20 bg-gradient-to-x-            <div           
+ :        -red-900 to-amber-800 text-white text-sm font-semibold rounded            <h1 className=            </div>
+
+ w-16
+          {/* Header Section */}
+          <div className="text-center pt-12 pb-8 px-8 relative">
+            <8 r          <div className="text-de            <div claexport default function Home() {
+  returel
+
+   returel
+          {/*              <d <
+         ce     px-8           {/* xt-          <diam  retu        returel
+          {/*              <div classNamep-        
+              <span classNa c          {/*       3xl">❖</div>
+            <div className="flex-1 h-0.        {/* Main Biodata Contaiin       oc        <divl        ld        d-          {/* Decorative Top Border Pattern */}
+          <d>
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              
+              <div classNam :        -red-900 to-amber-800 text-white text-sm font-semibold rounded            <h1 className=            </div>
+
+ w-16
+          {/* Header Section *ab
+ w-16
+          {/* Header Section */}
+          <div className="text-center pt-12 pb-8 px-8 relative">
+                 <d          <div className="text- g            <8 r          <div className="text-de            <d<d  returel
+
+   returel
+          {/*              <d <
+         ce     px-8           {/* xt-        fo
+   retu">P         et         ce     px-8          v>          {/     <div className="space-y-3 relative z-10">
+                              <span classNa c          {/*       3-b            <div className="flex-1 h-0.        {/* Main Biodatgr          <d>
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              
+              <div classNam :        -red-900 to-ass            us           n               
+              <div classNam :        -red-900 to-amme             00
+ w-16
+          {/* Header Section *ab
+ w-16
+          {/* Header Section */}
+          <div className="text-center pt-12 pb-8 px-8 relativ       <div w-16
+          {/* Header Sectn      b          <div className="text-                <span className="text-gray-700 font-semibold">Compl
+   returel
+          {/*              <d <
+         ce     px-8           {/* xt-        fo
+   retu">P         et         ce            ss         ce     px-8          2    retu">P         et         ce     px-8       <                              <span classNa c          {/*       3-b            <div className="flex-1 h-0.   90            
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              
+              <div classNam :        -red-900 toam           y-              
+              <div classNam :        -red-900 to-ascl             -r              <div classNam :        -red-900 to-amme             00
+ w-16
+          {/* Hea < w-16
+          {/* Header Section *ab
+ w-16
+          {/* Header So-    ge w-16
+          {/* Header Sectrd     b          <div className="textflo          {/* Header Sectn      b          <div className=right-0 w-24 h-24 bg   returel
+          {/*              <d <
+         ce     px-8           {/* xt-        fo
+   retu">P         et         ce      mb         or         ce     px-8               retu">P         et         ce            ss </            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              
+              <div classNam :        -riv>
+                <div className="flex flex-wrap gap-3 relative z-10">
+                  <span className="px-4 py-2 bg-gradient-  -r from-amber-100 to-orange-100 text-red-900 rounded-lg border-2 b          ge-60              <div classNam :        -red-900 to-ascl             -r        -4 w-16
+          {/* Hea < w-16
+          {/* Header Section *ab
+ w-16
+          {/* Header So-    ge w-16
+          {/* Header Sectrd  n>                {/* Header SesN w-16
+          {/* Header So-  f    am          {/* Header Sectrd     b  r          {/*              <d <
+         ce     px-8           {/* xt-        fo
+   retu">P         et         ce      mb         or         ce     px-8 an         ce     px-8           b   retu">P         et         ce      mb       >T              
+              <div classNam :        -riv>
+                <div className="flex flex-wrap gap-3 relative z-10">
+                  <span className="px-4 py-2 bg-gradient-  -r from-ambeiv             dd                <div className="flex flexte                  <span className="px-4 py-2 bg-gradient-  -r from-pa          {/* Hea < w-16
+          {/* Header Section *ab
+ w-16
+          {/* Header So-    ge w-16
+          {/* Header Sectrd  n>                {/* Header SesN w-16
+          {/* Header So-  f    am          {/* Header d           {/* Header Se"> w-16
+          {/* Header So- 
+                 {/* Header Sectrd  n>   la          {/* Header So-  f    am          {/* Header Sectrd     b           ce     px-8           {/* xt-        fo
+   retu">P         et         ce      mb         oer   retu">P         et         ce      mb       am              <div classNam :        -riv>
+                <div className="flex flex-wrap gap-3 relative z-10">
+                  <span className="px-4 py-2 bg-gradient<p                <div className="flex flexIT                  <span className="px-4 py-2 bg-gradient-  -r from--4          {/* Header Section *ab
+ w-16
+          {/* Header So-    ge w-16
+          {/* Header Sectrd  n>                {/* Header SesN w-16
+          {/* Header So-  f    am          {/* Header d           {/* Header Se"ex w-1d-900 text-lg">B.Tech (CSE) ?? 70% /p>
+                  <p className="text-sm text-gray-700 mt-1">GNIT Noida</p>
+                </div>
+           {/* Header So- 
+                 {/* Header Sectrd  n>   la          {/* Heed                 {/* Hea70   retu">P         et         ce      mb         oer   retu">P         et         ce      mb       am              <div classNam :        -riv>
+              d-                <div className="flex flex-wrap gap-3 relative z-10">
+                  <span className="pdy, Hyderabad</p>
+                </div                  <span className="px-4 py-2 bg-gradient<p         0  w-16
+          {/* Header So-    ge w-16
+          {/* Header Sectrd  n>                {/* Header SesN w-16
+          {/* Header So-  f    am          {/* Header d           {/* Header Se"ex w-1d-90000    t-          {/* Header Sectrd  n>               {/* Header So-  f    am          {/* Header d                               <p className="text-sm text-gray-700 mt-1">GNIT Noida</p>
+                </div>
+           {/* Header So- 50                </div>
+           {/* Header So- 
+                 {/* Hede           {/* Headerv                  {/* Head r              d-                <div className="flex flex-wrap gap-3 relative z-10">
+                  <span className="pdy, Hyderabad</p>
+                </div                  <span className="px-4 py-2 bg-gradient<p         0 ??     v>
+                <h3 className="text-2xl font-bold text-red-900 font-serif">Pr                </div                  <span classNa            {/* Header So-    ge w-16
+          {/* Header Sectrd  n>                {/* Header v           {/* Header Sectrd  n>   ro          {/* Header So-  f    am          {/* Header d           ad                </div>
+           {/* Header So- 50                </div>
+           {/* Header So- 
+                 {/* Hede           {/* Headerv                  {/* Head r              d-                <div className="flex flex-wrap gap-3 relative z-10">
+               di           {/* Headeriv           {/* Header So- 
+                 {/* Hto                 {/* Hedeor                  <span className="pdy, Hyderabad</p>
+                </div                  <span className="px-4 py-2 bg-gradient<p         0 ??     v>
+    fo                </div                  <span classNa                  <h3 className="text-2xl font-bold text-red-900 font-serif">Pr                </dunde          {/* Header Sectrd  n>                {/* Header v           {/* Header Sectrd  n>   ro          {/* Header So-  f    am          {/* Header d           ad am           {/* Header So- 50                </div>
+           {/* Header So- 
+                 {/* Hede           {/* Headerv                  {/* Head r              d-                p-           {/* Header So- 
+                 {/* Hbg                 {/* Hedee                di           {/* Headeriv           {/* Header So- 
+                 {/* Hto                 {/* Hedeor                  <span className="pdy, g-                 {/* Hto                 {/* Hedeor              ><                </div                  <span className="px-4 py-2 bg-gradient<p         0 ?? ple-800">
+      fo                </div                  <span classNa                  <h3 className="text-2x="           {/* Header So- 
+                 {/* Hede           {/* Headerv                  {/* Head r              d-                p-           {/* Header So- 
+                 {/* Hbg                 {/* Hedee                di           {/* Headeriv           {/* Header So- 
+                 {/* Hto                 {/* Hedeor                  <span className="pdy, g-                     {/* Heded                  {/* Hbg                 {/* Hedee                di           {/* Headeriv           {/* Header So- 
+                00                 {/* Hto                 {/* Hedeor                  <span className="pdy, g-                 {/* Ht80      fo                </div                  <span classNa                  <h3 className="text-2x="           {/* Header So- 
+                 {/* Hede           {/* Headerv                  {/* Head r              d-                p-           {/* Header S</                 {/* Hede           {/* Headerv                  {/* Head r              d-                p-           {/* Heael                 {/* Hbg                 {/* Hedee                di           {/* Headeriv           {/* Header So- 
+                re                 {/* Hto                 {/* Hedeor                  <span className="pdy, g-                     {/80                00                 {/* Hto                 {/* Hedeor                  <span className="pdy, g-                 {/* Ht80      fo                </div                  <span classNa                  <h3 className="text-2x="                     {/* Hede           {/* Headerv                  {/* Head r              d-                p-           {/* Header S</                 {/* Hede           {/* Headerv                  {/* Head r              d-                p-           {/* Heaelke                re                 {/* Hto                 {/* Hedeor                  <span className="pdy, g-                     {/80                00                 {/* Hto                 {/* Hedeor                  <span className="pdy, g-                 {/* Ht80      fo                </div                  <span classNa                  <h3 className="text-2x="     Creator & Freelancer</p>
+                    <p className="text-xs text-gray-600">Video Editor</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              
+              <div className="bg-gradient-to-br from-white to-pink-50 rounded-lg shadow-lg p-6 border-4 border-pink-800 relative overflow-hidden">
+                <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-pink-400/20 to-transparent rounded-bl-full"></div>
+                <div className="flex items-center gap-3 mb-5 pb-3 border-b-2 border-pink-800">
+                  <div className="text-3xl">🎨</div>
+                  <h3 className="text-2xl font-bold text-red-900 font-serif">Hobbies & Interests</h3>
+                </div>
+                <div className="flex flex-wrap gap-3 relative z-10">
+                  <div className="px-4 py-3 bg-gradient-to-r from-pink-100 to-rose-100 rounded-lg border-2 border-pink-700 sh                    <r                   </div>
+                </div>
+              </div>
+                     </div>
+sN              </div>
+ed            </div>
+>
+
+            <div </              
+              <div className="bg-gradient-to-br frofr             o-                <div className="absolute top-0 right-0 w-24 h-24 bg-gradient-to-br from-pink-400/20 to-transparent rounded-bl-full"></div>
+                        <div className="flex items-center gap-3 mb-5 pb-3 border-b-2 border-pink-800">
+                  <div className="text-3xl-g                  <div className="text-3xl">🎨</div>
+                  <h3 className="text-ce                  <h3 className="text-2xl font-bold tt-                </div>
+                <div className="flex flex-wrap gap-3 relative z-10">
+                          <di                      <div className="px-4 py-3 bg-gradient-to-r from-p"b                </div>
+              </div>
+                     </div>
+sN              </div>
+ed            </div>
+>
+
+            <div </              
+              <divw-              </div>
+o-                    tsN       rent rounded-bl-fuled            </div>
+  >
+
+            <divflex               <div className="bgde                        <div className="flex items-center gap-3 mb-5 pb-3 border-b-2 border-pink-800">
+                  <div className="text-3xl-g                  <div className="text-3xl">🎨</div>
+                       <div className="text-3xl-g                  <div className="text-3xl">🎨</div>
+  fr                  <h3 className="text-ce                  <h3 className="text-2xl font-bold tt-  ss                <div className="flex flex-wrap gap-3 relative z-10">
+                          <di                  ol                          <di                      <div className="                </div>
+                     </div>
+sN              </div>
+ed            </div>
+>
+
+            <div </        bo                    HsN              </div>
+ed   ed            </div>
+  >
+
+            <div                   <divw-              o-                    tsN       re-to-r f  >
+
+            <divflex               <div className="bgde          it
+ bor                  <div className="text-3xl-g                  <div className="text-3xl">🎨</div>
+                       <div className="text-3xl-g        -1                       <div className="text-3xl-g                  <div className="text-3xl">🎨    fr                  <h3 className="text-ce                  <h3 className="text-2xl font-bold tt-  sgr                          <di                  ol                          <di                      <div className="                </div>
+                     </div>
+sN  <                     </div>
+sN              </div>
+ed            </div>
+>
+
+            <div </        bo             x items-center justifysN              </div>
+ed   ed            </div>
+=">
+
+            <divn>
+  ed   ed            </div>
+  >
+
+            <     <div>
+                    >
+
+            <div   -s
+ opa
+            <divflex               <div className="bgde          it
+ bor                  <div cl-lg bor                  <div className="text-3xl-g                  di                       <div className="text-3xl-g        -1                       <div className="tex p                     </div>
+sN  <                     </div>
+sN              </div>
+ed            </div>
+>
+
+            <div </        bo             x items-center justifysN              </div>
+ed   ed            </div>
+=">
+
+            <divn>
+  ed   ed            </div>
+  >
+
+            <     <div>
+                    >
+
+            <div   -s
+ opa
+            <divflex               <div classNad sN  <                       sN              </div>
+ed      ="ed            </div>
+__>
+
+            <div     ed   ed            </div>
+=">
+
+            <divn>
+  ed   ed            </div>
+  >
+
+  iv=">
+
+            <divn>
+  
+      ed   ed            >
+
+            <     <dila
+ Nam                    >
+-r
+            <div   ber opa
+            <diti   >
+ bor                  <div cl-lg bor                  <div classNa  sN  <                     </div>
+sN              </div>
+ed            </div>
+>
+
+            <div </        bo             x items-center justifysN              </div>
+ed   ed            </div>
+=">
+
+            <divn>
+  ed   ed   );
+}
