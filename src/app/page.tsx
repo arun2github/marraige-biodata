@@ -206,6 +206,7 @@ export default function Home() {
                     <div className="bg-cyan-50 rounded-xl p-3 text-sm text-cyan-800 font-medium space-y-1">
                       <p>12th (Jawahar Navodaya Vidyalaya, Saharsa)</p>
                       <p>B.Com (Mansarovar Univ, Bhopal)</p>
+                      <p>D.El.Ed(Lakshay College of Eductaion Naultha Panipat)</p>
                       <p className="font-bold text-cyan-700 mt-2 border-t border-cyan-200/50 pt-2">Working as Outreach Specialist</p>
                     </div>
                   </div>
